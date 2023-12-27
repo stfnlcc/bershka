@@ -1,0 +1,243 @@
+body {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+header {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        margin-top: -50px;
+        margin-bottom: -50px;
+    }
+
+    .container1 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.container3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.container4 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.container-a {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+
+.container-b {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-c {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-d {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-e {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+
+.container-f {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-g {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-h {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-i {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+
+.container-l {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-m {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-n {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-o {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+
+.container-p {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-q {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
+
+.container-r {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+}
