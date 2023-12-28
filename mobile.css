@@ -1,0 +1,59 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 200px;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+
+.container-m {
+    display: flex;
+    background-image: url(img/mujer.jpg);
+    background-size: cover;
+    background-position: top;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 170px;
+    height: 470px;
+    padding: 80px;
+    margin-left: 15px;
+}
+
+.container-h {
+    display: flex;
+    background-image: url(img/hombre.jpg);
+    background-size: cover;
+    background-position: top;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 170px;
+    height: 470px;
+    padding: 80px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.container-t {
+    display: flex;
+    background-image: url(img/bsk.jpg);
+    background-size: cover;
+    background-position: top;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 170px;
+    height: 470px;
+    padding: 80px;
+    margin-top: 20px;
+}
+
+.container-ayuda {
+    margin-right: 55px;
+}
